@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: DiY | Mrcinov blog]]></title>
-  <link href="http://mrcin.github.io/blog/categories/diy/atom.xml" rel="self"/>
-  <link href="http://mrcin.github.io/"/>
-  <updated>2013-12-06T21:03:41+01:00</updated>
-  <id>http://mrcin.github.io/</id>
+  <link href="http://mrcinv.github.io/blog/categories/diy/atom.xml" rel="self"/>
+  <link href="http://mrcinv.github.io/"/>
+  <updated>2013-12-06T22:27:48+01:00</updated>
+  <id>http://mrcinv.github.io/</id>
   <author>
     <name><![CDATA[Martin Vuk]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Rower: A Rowing Simulator]]></title>
-    <link href="http://mrcin.github.io/blog/2013/11/24/rower-a-rowing-simulator/"/>
+    <link href="http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator/"/>
     <updated>2013-11-24T01:34:54+01:00</updated>
-    <id>http://mrcin.github.io/blog/2013/11/24/rower-a-rowing-simulator</id>
+    <id>http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator</id>
     <content type="html"><![CDATA[<p>Having small kids, <em>cranky wife</em> and renovating our newly bought house, my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator <a href="http://www.waterrower.com/">Water rower</a> I instantly wanted to have my own. These machines come at a price however. So I decided to build one of my own. Its mostly wood, so how hard can it be.</p>
 
 <h2>The idea</h2>

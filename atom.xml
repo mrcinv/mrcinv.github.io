@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Mrcinov blog]]></title>
-  <link href="http://mrcin.github.io/atom.xml" rel="self"/>
-  <link href="http://mrcin.github.io/"/>
-  <updated>2013-12-06T21:03:41+01:00</updated>
-  <id>http://mrcin.github.io/</id>
+  <link href="http://mrcinv.github.io/atom.xml" rel="self"/>
+  <link href="http://mrcinv.github.io/"/>
+  <updated>2013-12-06T22:27:48+01:00</updated>
+  <id>http://mrcinv.github.io/</id>
   <author>
     <name><![CDATA[Martin Vuk]]></name>
     
@@ -14,10 +14,71 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Baking Bread N-th Attempt]]></title>
+    <link href="http://mrcinv.github.io/blog/2013/12/06/baking-bread/"/>
+    <updated>2013-12-06T21:08:27+01:00</updated>
+    <id>http://mrcinv.github.io/blog/2013/12/06/baking-bread</id>
+    <content type="html"><![CDATA[<p>Why am I writing this post? Well today I&rsquo;ve baked an almost edible loaf of bread. And I like to note some of the thing I did right.</p>
+
+<p><img src="http://mrcinv.github.io/images/bread01.jpg" alt="&quot;almost edible loaf of bread&quot;" /></p>
+
+<p>The base recepy I&rsquo;m following is from a cook book <em>Vendelina</em> and after Tinka&rsquo;s advice I&rsquo;m taking half a kilo of flour. I also kned the dough for 10 miniutes to get nice bubbles. So here is what I did</p>
+
+<h3>Ingredients:</h3>
+
+<ul>
+<li><strong>500g</strong> of wholewheat flour mixed with white <strong>flour</strong></li>
+<li><strong>0.4l</strong> of warm <strong>water</strong></li>
+<li><strong>20g</strong> of <strong>yeast</strong> (half of a 40g packet)</li>
+<li><strong>4g</strong> of <strong>salt</strong> (one teaspoon)</li>
+</ul>
+
+
+<p><strong> Kneding time: 10 minutes</strong></p>
+
+<h3>Baking</h3>
+
+<ul>
+<li><strong>12 min</strong> at <strong>230C</strong> (fan heating)</li>
+<li><strong>40 min</strong> at <strong>180C</strong> (bottom-up heating)</li>
+<li>bottom tray level</li>
+</ul>
+
+
+<h2>The dough</h2>
+
+<p>Decompose yeast into small pieaces and mix it with some of warm water. Add a bit of flour to feed the yeast cells. In the mean time prepare the flour in a large bowl.</p>
+
+<p>Mix the yeast water with the flour, leave it for 1 minute and add salt and the rest of the warm water. Take care that the salt is not in direct contact with yeast for as long as possible.</p>
+
+<h2>Kneding</h2>
+
+<p>I kned the dough in the bowl so that Mojca does not complain too much about the flour all over the kitchen. The goal of kneding is to make long gluten molecules, so one should press and push the dough, but not tear it.</p>
+
+<h2>Prooving</h2>
+
+<p>First prove the dough in the bowl for an cca hour. Then kned firmly and mix whateved additives to the bread and make a loaf.</p>
+
+<p>Dont forget to make a cross with a knife before putting the loaf to second proving. And one should be <em>patient</em> and wait long enough, so the lines in the cross are wide.</p>
+
+<h2>Baking</h2>
+
+<p>Put a tray at the bottom. Preheat the oven to <strong>250C</strong>. Before baking spill 1dl of water in the tray. Then put the loaf in.
+After <strong>12min</strong> I reduce the temperature to <strong>180C</strong> and bake for another <strong>40min</strong>.</p>
+
+<p><em>Baking depends greatly upon the properties of the oven used.</em></p>
+
+<h2>Notes</h2>
+
+<p>I should try to reduce the amount of water to 0.35l or 0.3l (as in the original recepy)</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Rower: A Rowing Simulator]]></title>
-    <link href="http://mrcin.github.io/blog/2013/11/24/rower-a-rowing-simulator/"/>
+    <link href="http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator/"/>
     <updated>2013-11-24T01:34:54+01:00</updated>
-    <id>http://mrcin.github.io/blog/2013/11/24/rower-a-rowing-simulator</id>
+    <id>http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator</id>
     <content type="html"><![CDATA[<p>Having small kids, <em>cranky wife</em> and renovating our newly bought house, my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator <a href="http://www.waterrower.com/">Water rower</a> I instantly wanted to have my own. These machines come at a price however. So I decided to build one of my own. Its mostly wood, so how hard can it be.</p>
 
 <h2>The idea</h2>
@@ -51,7 +112,7 @@ Ok, if you row very fast, the quadratic law of resistance would apply. Water row
 
 <p>So I start walking like professor Baltazar in the cartoon, to figure out what could be used to produce the kind of resistence I needed. And then as in the cartoon it came into my mind, that bycicle trainers offer the same kind of resistence. I have one at home, that uses oil chamber to use viscous force of oil, to create resistance. Sounds familiar to paddles in a woter tank :&ndash;) The trainer is <a href="http://www.elite-it.com/products/">Elite Super Crono</a>. Even if you buy a new one, it would cost around 250€, so there is quite a margin to the original <a href="http://www.waterrower.com">Water rower</a>. This is the first sketch</p>
 
-<p><img src="http://mrcin.github.io/images/wr-sketch.png" alt="Rower v0.1 sketch" /></p>
+<p><img src="http://mrcinv.github.io/images/wr-sketch.png" alt="Rower v0.1 sketch" /></p>
 ]]></content>
   </entry>
   
