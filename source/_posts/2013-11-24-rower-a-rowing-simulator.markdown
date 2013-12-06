@@ -9,7 +9,7 @@ categories:
  
 ---
 
-Having small kids, *cranky wife* and renovating our newly bought house, my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator [Water rower](http://www.waterrower.com/) I instantly wanted to have my own. These machines come at a price however. So I decided to build one of my own. Its mostly wood, so how hard can it be.
+Having small kids and  *piip pip* (censured by my better half), my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator [Water rower](http://www.waterrower.com/) I instantly wanted to have my own. These machines come at a price however. So I decided to build one of by my self. Its mostly wood, so how hard can it be.
 
 The idea
 --------
