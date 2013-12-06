@@ -4,7 +4,7 @@
   <title><![CDATA[Mrcinov blog]]></title>
   <link href="http://mrcinv.github.io/atom.xml" rel="self"/>
   <link href="http://mrcinv.github.io/"/>
-  <updated>2013-12-06T22:31:55+01:00</updated>
+  <updated>2013-12-07T00:11:43+01:00</updated>
   <id>http://mrcinv.github.io/</id>
   <author>
     <name><![CDATA[Martin Vuk]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rower Prototype]]></title>
+    <link href="http://mrcinv.github.io/blog/2013/12/06/rower-prototype/"/>
+    <updated>2013-12-06T22:50:51+01:00</updated>
+    <id>http://mrcinv.github.io/blog/2013/12/06/rower-prototype</id>
+    <content type="html"><![CDATA[<p>Some time ago I&rsquo;ve <a href="http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator/">set to make a rowing simulator</a> and few days ago, the first prototype was finished.</p>
+
+<p><img src="http://mrcinv.github.io/images/rower/rower01.jpg" alt="Rower ver. 0.0.1" /></p>
+
+<p>I fixed the Teva sandals with 4 velcro straps to the wooden plate:</p>
+
+<p><img src="http://mrcinv.github.io/images/rower/teva.jpg" alt="Teva holders" /></p>
+
+<p>The seat was made of wood and cushioned with foam covered with artificial leadther</p>
+
+<p><img src="http://mrcinv.github.io/images/rower/seat_detail.jpg" alt="seat detail" /></p>
+
+<p><img src="http://mrcinv.github.io/images/rower/seat.jpg" alt="seat" /></p>
+
+<p>The most dificult was the part for connecting the padle-handle to the wheel</p>
+
+<p><img src="http://mrcinv.github.io/images/rower/wheel_joint.jpg" alt="wheel joint" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Baking Bread N-th Attempt]]></title>
@@ -79,7 +104,7 @@ After <strong>12min</strong> I reduce the temperature to <strong>180C</strong> a
     <link href="http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator/"/>
     <updated>2013-11-24T01:34:54+01:00</updated>
     <id>http://mrcinv.github.io/blog/2013/11/24/rower-a-rowing-simulator</id>
-    <content type="html"><![CDATA[<p>Having small kids, <em>cranky wife</em> and renovating our newly bought house, my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator <a href="http://www.waterrower.com/">Water rower</a> I instantly wanted to have my own. These machines come at a price however. So I decided to build one of my own. Its mostly wood, so how hard can it be.</p>
+    <content type="html"><![CDATA[<p>Having small kids and  <em>piip pip</em> (censured by my better half), my physical activity was reduced to minimum in the last year. When my brother bought a rowing simulator <a href="http://www.waterrower.com/">Water rower</a> I instantly wanted to have my own. These machines come at a price however. So I decided to build one of by my self. Its mostly wood, so how hard can it be.</p>
 
 <h2>The idea</h2>
 
